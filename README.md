@@ -10,58 +10,29 @@ I'm currently pursuing a degree in Systems Engineering, with a focus on software
 
 ---
 
-## 🚀 Frontend
+## 🛠️ Tech Skills
 
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/astro-community/brand/main/logos/astro-icon-light.svg" alt="Astro" width="40"/>
-    <div>Astro</div>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40"/>
-    <div>Angular</div>
-  </div>
-</div>
+### Backend  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
-## 🛠️ Backend
-
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40"/>
-    <div>Laravel</div>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://spring.io/images/spring-logo-2022-32d243248aa8d2c81c3fbc63dc6c9db5.svg" alt="Spring Boot" width="40"/>
-    <div>Spring Boot</div>
-  </div>
-</div>
+### Frontend  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 
 ---
 
-## 🧰 Tools & Platforms
-
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-    <div>Git</div>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40"/>
-    <div>Postman</div>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-    <div>Docker</div>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
-    <div>VS Code</div>
-  </div>
-</div>
+### Tools & Platforms  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
+
 
 ## 📊 Stats
 
